@@ -1,0 +1,14 @@
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\bin\Debug\net6.0\CEI_Prog2_Ejercicios.exe
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\bin\Debug\net6.0\CEI_Prog2_Ejercicios.deps.json
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\bin\Debug\net6.0\CEI_Prog2_Ejercicios.runtimeconfig.json
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\bin\Debug\net6.0\CEI_Prog2_Ejercicios.dll
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\bin\Debug\net6.0\CEI_Prog2_Ejercicios.pdb
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.AssemblyInfo.cs
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.dll
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\refint\CEI_Prog2_Ejercicios.dll
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.pdb
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\CEI_Prog2_Ejercicios.genruntimeconfig.cache
+C:\Users\nacho\OneDrive\Escritorio\CEI_Prog2\CEI_Prog2_Ejercicios\CEI_Prog2_Ejercicios\obj\Debug\net6.0\ref\CEI_Prog2_Ejercicios.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CEI_Prog2_Ejercicios/1.0.0": {
+        "runtime": {
+          "CEI_Prog2_Ejercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CEI_Prog2_Ejercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
